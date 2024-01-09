@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\bin\Debug\net6.0\DigitSeparator.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\bin\Debug\net6.0\DigitSeparator.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\bin\Debug\net6.0\DigitSeparator.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\bin\Debug\net6.0\DigitSeparator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\bin\Debug\net6.0\DigitSeparator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\refint\DigitSeparator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\DigitSeparator.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\DigitSeparator\obj\Debug\net6.0\ref\DigitSeparator.dll

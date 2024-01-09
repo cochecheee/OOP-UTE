@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="C:\USERS\ADMIN\ONEDRIVE\DOCUMENTS\SQLEXPRESS.MDF" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=C:\USERS\ADMIN\ONEDRIVE\DOCUMENTS\SQLEXPRESS.MDF;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False" SettingsObjectName="Day10.Properties.Settings" SettingsPropertyName="C__USERS_ADMIN_ONEDRIVE_DOCUMENTS_SQLEXPRESS_MDFConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.qlyVien" Member="qlyViens">
+    <Type Name="qlyVien">
+      <Column Name="emID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Dept" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

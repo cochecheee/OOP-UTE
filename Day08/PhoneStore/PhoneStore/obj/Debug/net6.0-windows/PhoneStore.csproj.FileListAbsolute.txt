@@ -1,0 +1,16 @@
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\bin\Debug\net6.0-windows\PhoneStore.exe
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\bin\Debug\net6.0-windows\PhoneStore.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\bin\Debug\net6.0-windows\PhoneStore.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\bin\Debug\net6.0-windows\PhoneStore.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\bin\Debug\net6.0-windows\PhoneStore.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\refint\PhoneStore.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\PhoneStore.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\PhoneStore\PhoneStore\obj\Debug\net6.0-windows\ref\PhoneStore.dll

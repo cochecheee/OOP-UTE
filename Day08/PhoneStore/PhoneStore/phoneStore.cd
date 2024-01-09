@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PhoneStore.Devices">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAFRAAABAAAAAAARAAAACSABAQAgAgAAAAIAA=</HashCode>
+      <FileName>Devices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PhoneStore.Samsung">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAACAABAQAAAAAAAAAAA=</HashCode>
+      <FileName>Samsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneStore.LG">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQgAAACAABAQAAAAAAAAAAA=</HashCode>
+      <FileName>LG.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PhoneStore.IPhone">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAQgAAACAABAQAABAAAAAAAA=</HashCode>
+      <FileName>IPhone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PhoneStore._22162048">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>_22162048.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneStore.StorePhone">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQAAAAAAAAAQAAAAKAABASAAAAAAAAAAA=</HashCode>
+      <FileName>StorePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneStore.Form1" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAAIhCgtAFQBIYqKgCLGoAAEAAAAIAAlIjAGQII=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PhoneStore.I3G">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>I3G.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PhoneStore.IWifi">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>IWifi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PhoneStore.IGSM">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGSM.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PhoneStore.IGRPS">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGRPS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

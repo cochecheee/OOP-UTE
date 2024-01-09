@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QThLrjO0XyLenq1Y+/Sz+DN5GHfYfS3TC3XpOh/JI4CVhtJ+/sMjzxLdNQPQ7NPNr1i1nd353Abcb0PC6W0ifA==",
+  "success": true,
+  "projectFilePath": "D:\\Lap trinh huong doi tuong - OOP\\Day06\\ThuaKe_Console\\ThuaKe_Form\\ThuaKe_Form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

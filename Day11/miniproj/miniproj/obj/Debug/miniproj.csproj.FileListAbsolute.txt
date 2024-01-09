@@ -1,0 +1,12 @@
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.exe.config
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Properties.Resources.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form2.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form3.resources

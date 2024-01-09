@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\bin\Debug\net6.0\AssignmentNo15.exe
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\bin\Debug\net6.0\AssignmentNo15.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\bin\Debug\net6.0\AssignmentNo15.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\bin\Debug\net6.0\AssignmentNo15.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\bin\Debug\net6.0\AssignmentNo15.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\refint\AssignmentNo15.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\AssignmentNo15.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\AssignmentNo15\obj\Debug\net6.0\ref\AssignmentNo15.dll

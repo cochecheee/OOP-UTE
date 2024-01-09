@@ -1,0 +1,17 @@
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\bin\Debug\net6.0-windows\Calculate_ComplexNumber.exe
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\bin\Debug\net6.0-windows\Calculate_ComplexNumber.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\bin\Debug\net6.0-windows\Calculate_ComplexNumber.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\bin\Debug\net6.0-windows\Calculate_ComplexNumber.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\bin\Debug\net6.0-windows\Calculate_ComplexNumber.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\refint\Calculate_ComplexNumber.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\Calculate_ComplexNumber.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Calculate_ComplexNumber\Calculate_ComplexNumber\obj\Debug\net6.0-windows\ref\Calculate_ComplexNumber.dll

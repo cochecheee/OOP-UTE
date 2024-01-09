@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\bin\Debug\net6.0\TryParse.exe
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\bin\Debug\net6.0\TryParse.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\bin\Debug\net6.0\TryParse.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\bin\Debug\net6.0\TryParse.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\bin\Debug\net6.0\TryParse.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\refint\TryParse.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\TryParse.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\TryParse\TryParse\obj\Debug\net6.0\ref\TryParse.dll

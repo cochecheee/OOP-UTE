@@ -1,0 +1,62 @@
+using System;
+using System.Windows.Forms;
+
+namespace MatrixInputForm
+{
+    public partial class Form1 : Form
+    {
+        private int rowCount;
+        private int colCount;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnCreateMatrix_Click(object sender, EventArgs e)
+        {
+            // Lấy số hàng và số cột từ TextBox
+            rowCount = int.Parse(txtRowCount.Text);
+            colCount = int.Parse(txtColumnCount.Text);
+
+            // Cấu hình DataGridView với số hàng và số cột
+            dgvMatrix.RowCount = rowCount;
+            dgvMatrix.ColumnCount = colCount;
+
+            // Xóa nội dung của TextBox
+            txtRowCount.Text = "";
+            txtColumnCount.Text = "";
+
+            // Hiển thị Button btnSubmit và DataGridView dgvMatrix
+            btnSubmit.Visible = true;
+            dgvMatrix.Visible = true;
+        }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            // Lấy giá trị từ DataGridView và thực hiện các thao tác khác với ma trận
+            int[,] matrix = new int[rowCount, colCount];
+
+            for (int i = 0; i < rowCount; i++)
+            {
+                for (int j = 0; j < colCount; j++)
+                {
+                    if (dgvMatrix.Rows[i].Cells[j].Value != null)
+                    {
+                        matrix[i, j] = int.Parse(dgvMatrix.Rows[i].Cells[j].Value.ToString());
+                    }
+                }
+            }
+
+            // Hiển thị thông báo thành công
+            MessageBox.Show("Ma trận đã được nhập thành công!");
+
+            // Xóa nội dung của DataGridView
+            dgvMatrix.Rows.Clear();
+
+            // Ẩn Button btnSubmit và DataGridView dgvMatrix
+            btnSubmit.Visible = false;
+            dgvMatrix.Visible = false;
+        }
+    }
+}

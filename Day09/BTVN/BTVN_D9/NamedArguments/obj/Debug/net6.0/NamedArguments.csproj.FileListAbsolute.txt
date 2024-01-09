@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\bin\Debug\net6.0\NamedArguments.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\bin\Debug\net6.0\NamedArguments.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\bin\Debug\net6.0\NamedArguments.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\bin\Debug\net6.0\NamedArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\bin\Debug\net6.0\NamedArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\refint\NamedArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\NamedArguments.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\NamedArguments\obj\Debug\net6.0\ref\NamedArguments.dll

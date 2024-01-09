@@ -1,0 +1,10 @@
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\bin\Debug\Day10.exe.config
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\bin\Debug\Day10.exe
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\bin\Debug\Day10.pdb
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.Properties.Resources.resources
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.exe
+D:\Lap trinh huong doi tuong - OOP\Day10\Day10\Day10\obj\Debug\Day10.pdb

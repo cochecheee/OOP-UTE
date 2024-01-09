@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BT05_Enum04/1.0.0": {
+        "runtime": {
+          "BT05_Enum04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT05_Enum04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

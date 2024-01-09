@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\bin\Debug\net6.0\SinCos.exe
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\bin\Debug\net6.0\SinCos.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\bin\Debug\net6.0\SinCos.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\bin\Debug\net6.0\SinCos.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\bin\Debug\net6.0\SinCos.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\refint\SinCos.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\SinCos.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\SinCos\SinCos\obj\Debug\net6.0\ref\SinCos.dll

@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\bin\Debug\net6.0\Ngay03_BT04.exe
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\bin\Debug\net6.0\Ngay03_BT04.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\bin\Debug\net6.0\Ngay03_BT04.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\bin\Debug\net6.0\Ngay03_BT04.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\bin\Debug\net6.0\Ngay03_BT04.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\refint\Ngay03_BT04.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\Ngay03_BT04.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Scar_01\Ngay03_BT04\obj\Debug\net6.0\ref\Ngay03_BT04.dll

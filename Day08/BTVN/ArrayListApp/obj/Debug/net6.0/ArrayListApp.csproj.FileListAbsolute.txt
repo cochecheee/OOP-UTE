@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\bin\Debug\net6.0\ArrayListApp.exe
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\bin\Debug\net6.0\ArrayListApp.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\bin\Debug\net6.0\ArrayListApp.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\bin\Debug\net6.0\ArrayListApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\bin\Debug\net6.0\ArrayListApp.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\refint\ArrayListApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ArrayListApp.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\ArrayListApp\obj\Debug\net6.0\ref\ArrayListApp.dll

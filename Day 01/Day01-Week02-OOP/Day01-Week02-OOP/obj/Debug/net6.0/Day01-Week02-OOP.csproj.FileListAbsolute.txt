@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\bin\Debug\net6.0\Day01-Week02-OOP.exe
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\bin\Debug\net6.0\Day01-Week02-OOP.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\bin\Debug\net6.0\Day01-Week02-OOP.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\bin\Debug\net6.0\Day01-Week02-OOP.dll
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\bin\Debug\net6.0\Day01-Week02-OOP.pdb
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.dll
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\refint\Day01-Week02-OOP.dll
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.pdb
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\Day01-Week02-OOP.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day01-Week02-OOP\Day01-Week02-OOP\obj\Debug\net6.0\ref\Day01-Week02-OOP.dll

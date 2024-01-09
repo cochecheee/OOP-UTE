@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\bin\Debug\net6.0\ForeachSyntax.exe
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\bin\Debug\net6.0\ForeachSyntax.deps.json
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\bin\Debug\net6.0\ForeachSyntax.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\bin\Debug\net6.0\ForeachSyntax.dll
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\bin\Debug\net6.0\ForeachSyntax.pdb
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.dll
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\refint\ForeachSyntax.dll
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.pdb
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ForeachSyntax.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\ForeachSyntax\ForeachSyntax\obj\Debug\net6.0\ref\ForeachSyntax.dll

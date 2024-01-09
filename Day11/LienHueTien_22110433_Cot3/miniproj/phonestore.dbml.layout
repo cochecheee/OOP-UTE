@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="phonestore">
+  <DataContextMoniker Name="/phonestoreDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7d7bb494-9724-4e4d-9dbb-b4c8529a8985" absoluteBounds="1, 2.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/phonestoreDataContext/phonestore" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ff3efd1-ba9e-4b32-9dec-aaf30f953785" absoluteBounds="1.0150000000000001, 2.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\bin\Debug\net6.0\BT05_Enum04.exe
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\bin\Debug\net6.0\BT05_Enum04.deps.json
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\bin\Debug\net6.0\BT05_Enum04.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\bin\Debug\net6.0\BT05_Enum04.dll
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\bin\Debug\net6.0\BT05_Enum04.pdb
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.dll
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\refint\BT05_Enum04.dll
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.pdb
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\BT05_Enum04.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\BT05_Enum04\BT05_Enum04\obj\Debug\net6.0\ref\BT05_Enum04.dll

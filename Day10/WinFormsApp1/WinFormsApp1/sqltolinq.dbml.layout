@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="sqltolinq">
+  <DataContextMoniker Name="/sqltolinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f66671c7-0e48-4a98-b1e9-9cf2e20cee4f" absoluteBounds="1.25, 1.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/sqltolinqDataContext/qlyVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a004019e-62eb-4e3b-b376-80fda00886d5" absoluteBounds="1.2650000000000001, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,13 @@
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.csproj.ResolveComReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\bin\Debug\net6.0\HinhHoc.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\bin\Debug\net6.0\HinhHoc.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\bin\Debug\net6.0\HinhHoc.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\refint\HinhHoc.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\HinhHoc.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\HinhHoc\obj\Debug\net6.0\ref\HinhHoc.dll

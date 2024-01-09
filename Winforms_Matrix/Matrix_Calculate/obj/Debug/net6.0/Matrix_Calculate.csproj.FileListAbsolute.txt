@@ -1,0 +1,12 @@
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\bin\Debug\net6.0\Matrix_Calculate.deps.json
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\bin\Debug\net6.0\Matrix_Calculate.dll
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\bin\Debug\net6.0\Matrix_Calculate.pdb
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.dll
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\refint\Matrix_Calculate.dll
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\Matrix_Calculate.pdb
+D:\Lap trinh huong doi tuong - OOP\Winforms_Matrix\Matrix_Calculate\obj\Debug\net6.0\ref\Matrix_Calculate.dll

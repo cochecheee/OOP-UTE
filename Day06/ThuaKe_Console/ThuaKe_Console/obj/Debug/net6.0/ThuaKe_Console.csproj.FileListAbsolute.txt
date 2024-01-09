@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\bin\Debug\net6.0\ThuaKe_Console.exe
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\bin\Debug\net6.0\ThuaKe_Console.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\bin\Debug\net6.0\ThuaKe_Console.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\bin\Debug\net6.0\ThuaKe_Console.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\bin\Debug\net6.0\ThuaKe_Console.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\refint\ThuaKe_Console.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ThuaKe_Console.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ThuaKe_Console\ThuaKe_Console\obj\Debug\net6.0\ref\ThuaKe_Console.dll

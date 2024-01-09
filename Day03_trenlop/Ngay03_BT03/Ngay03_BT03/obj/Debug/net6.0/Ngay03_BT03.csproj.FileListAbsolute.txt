@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\bin\Debug\net6.0\Ngay03_BT03.exe
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\bin\Debug\net6.0\Ngay03_BT03.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\bin\Debug\net6.0\Ngay03_BT03.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\bin\Debug\net6.0\Ngay03_BT03.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\bin\Debug\net6.0\Ngay03_BT03.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\refint\Ngay03_BT03.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\Ngay03_BT03.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\Ngay03_BT03\Ngay03_BT03\obj\Debug\net6.0\ref\Ngay03_BT03.dll

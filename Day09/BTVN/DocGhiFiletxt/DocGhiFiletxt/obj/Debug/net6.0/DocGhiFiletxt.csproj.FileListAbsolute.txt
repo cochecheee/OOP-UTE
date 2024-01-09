@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\bin\Debug\net6.0\DocGhiFiletxt.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\bin\Debug\net6.0\DocGhiFiletxt.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\bin\Debug\net6.0\DocGhiFiletxt.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\bin\Debug\net6.0\DocGhiFiletxt.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\bin\Debug\net6.0\DocGhiFiletxt.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\refint\DocGhiFiletxt.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\DocGhiFiletxt.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\DocGhiFiletxt\DocGhiFiletxt\obj\Debug\net6.0\ref\DocGhiFiletxt.dll

@@ -1,0 +1,17 @@
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\bin\Debug\net6.0-windows\PointCircle.exe
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\bin\Debug\net6.0-windows\PointCircle.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\bin\Debug\net6.0-windows\PointCircle.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\bin\Debug\net6.0-windows\PointCircle.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\bin\Debug\net6.0-windows\PointCircle.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\refint\PointCircle.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\PointCircle.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\ConsoleApp1\PointCircle\obj\Debug\net6.0-windows\ref\PointCircle.dll

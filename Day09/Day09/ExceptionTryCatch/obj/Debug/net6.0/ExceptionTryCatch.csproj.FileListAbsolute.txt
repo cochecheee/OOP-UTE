@@ -1,0 +1,4 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\ExceptionTryCatch\obj\Debug\net6.0\ExceptionTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\ExceptionTryCatch\obj\Debug\net6.0\ExceptionTryCatch.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\ExceptionTryCatch\obj\Debug\net6.0\ExceptionTryCatch.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\ExceptionTryCatch\obj\Debug\net6.0\ExceptionTryCatch.csproj.CoreCompileInputs.cache

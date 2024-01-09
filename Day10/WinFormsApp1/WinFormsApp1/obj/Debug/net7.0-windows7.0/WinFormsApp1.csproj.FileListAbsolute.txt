@@ -1,0 +1,7 @@
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day10\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows7.0\WinFormsApp1.csproj.CoreCompileInputs.cache

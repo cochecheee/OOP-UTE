@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\bin\Debug\net6.0\BT01_Bien_va_Hang.exe
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\bin\Debug\net6.0\BT01_Bien_va_Hang.deps.json
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\bin\Debug\net6.0\BT01_Bien_va_Hang.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\bin\Debug\net6.0\BT01_Bien_va_Hang.dll
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\bin\Debug\net6.0\BT01_Bien_va_Hang.pdb
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.dll
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\refint\BT01_Bien_va_Hang.dll
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.pdb
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\BT01_Bien_va_Hang.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\BT01_Bien_va_Hang\BT01_Bien_va_Hang\obj\Debug\net6.0\ref\BT01_Bien_va_Hang.dll

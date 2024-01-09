@@ -1,0 +1,12 @@
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\bin\Debug\net6.0\Operator.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\bin\Debug\net6.0\Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\bin\Debug\net6.0\Operator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\refint\Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\Operator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day03_trenlop\BTday03_trenlop\Operator\obj\Debug\net6.0\ref\Operator.dll

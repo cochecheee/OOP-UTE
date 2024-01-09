@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\bin\Debug\net6.0\RecursiveMethodsExercise.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\bin\Debug\net6.0\RecursiveMethodsExercise.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\bin\Debug\net6.0\RecursiveMethodsExercise.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\bin\Debug\net6.0\RecursiveMethodsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\bin\Debug\net6.0\RecursiveMethodsExercise.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\refint\RecursiveMethodsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\RecursiveMethodsExercise.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\RecursiveMethodsExercise\obj\Debug\net6.0\ref\RecursiveMethodsExercise.dll

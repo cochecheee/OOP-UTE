@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\bin\Debug\net8.0\d10btvn.exe
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\bin\Debug\net8.0\d10btvn.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\bin\Debug\net8.0\d10btvn.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\bin\Debug\net8.0\d10btvn.dll
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\bin\Debug\net8.0\d10btvn.pdb
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.dll
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\refint\d10btvn.dll
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.pdb
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\d10btvn.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day10\d10btvn\d10btvn\obj\Debug\net8.0\ref\d10btvn.dll

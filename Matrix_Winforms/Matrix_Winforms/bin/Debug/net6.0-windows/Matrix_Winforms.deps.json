@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Matrix_Winforms/1.0.0": {
+        "dependencies": {
+          "Matrix_Operator": "1.0.0"
+        },
+        "runtime": {
+          "Matrix_Winforms.dll": {}
+        }
+      },
+      "Matrix_Operator/1.0.0": {
+        "runtime": {
+          "Matrix_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrix_Winforms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrix_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

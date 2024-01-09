@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\bin\Debug\net6.0\ConsoleForeGroundColor.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\bin\Debug\net6.0\ConsoleForeGroundColor.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\bin\Debug\net6.0\ConsoleForeGroundColor.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\bin\Debug\net6.0\ConsoleForeGroundColor.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\bin\Debug\net6.0\ConsoleForeGroundColor.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\refint\ConsoleForeGroundColor.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ConsoleForeGroundColor.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ConsoleForeGroundColor\obj\Debug\net6.0\ref\ConsoleForeGroundColor.dll

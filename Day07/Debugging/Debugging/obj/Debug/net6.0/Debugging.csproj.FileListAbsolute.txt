@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\bin\Debug\net6.0\Debugging.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\bin\Debug\net6.0\Debugging.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\bin\Debug\net6.0\Debugging.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\bin\Debug\net6.0\Debugging.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\bin\Debug\net6.0\Debugging.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\refint\Debugging.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\Debugging\obj\Debug\net6.0\ref\Debugging.dll

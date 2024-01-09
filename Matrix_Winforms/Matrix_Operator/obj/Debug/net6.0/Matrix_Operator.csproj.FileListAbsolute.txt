@@ -1,0 +1,12 @@
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\bin\Debug\net6.0\Matrix_Operator.deps.json
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\bin\Debug\net6.0\Matrix_Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\bin\Debug\net6.0\Matrix_Operator.pdb
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\refint\Matrix_Operator.dll
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\Matrix_Operator.pdb
+D:\Lap trinh huong doi tuong - OOP\Matrix_Winforms\Matrix_Operator\obj\Debug\net6.0\ref\Matrix_Operator.dll

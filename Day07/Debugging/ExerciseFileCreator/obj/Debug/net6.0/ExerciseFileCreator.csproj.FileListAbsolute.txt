@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\bin\Debug\net6.0\ExerciseFileCreator.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\bin\Debug\net6.0\ExerciseFileCreator.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\bin\Debug\net6.0\ExerciseFileCreator.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\bin\Debug\net6.0\ExerciseFileCreator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\bin\Debug\net6.0\ExerciseFileCreator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\refint\ExerciseFileCreator.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ExerciseFileCreator.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\ExerciseFileCreator\obj\Debug\net6.0\ref\ExerciseFileCreator.dll

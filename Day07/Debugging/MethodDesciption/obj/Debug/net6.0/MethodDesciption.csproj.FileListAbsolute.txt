@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\bin\Debug\net6.0\MethodDesciption.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\bin\Debug\net6.0\MethodDesciption.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\bin\Debug\net6.0\MethodDesciption.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\bin\Debug\net6.0\MethodDesciption.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\bin\Debug\net6.0\MethodDesciption.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\refint\MethodDesciption.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\MethodDesciption.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\MethodDesciption\obj\Debug\net6.0\ref\MethodDesciption.dll

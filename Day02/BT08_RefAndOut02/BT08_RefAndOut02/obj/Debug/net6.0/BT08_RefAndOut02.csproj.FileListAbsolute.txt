@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\bin\Debug\net6.0\BT08_RefAndOut02.exe
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\bin\Debug\net6.0\BT08_RefAndOut02.deps.json
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\bin\Debug\net6.0\BT08_RefAndOut02.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\bin\Debug\net6.0\BT08_RefAndOut02.dll
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\bin\Debug\net6.0\BT08_RefAndOut02.pdb
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.dll
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\refint\BT08_RefAndOut02.dll
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.pdb
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\BT08_RefAndOut02.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\BT08_RefAndOut02\BT08_RefAndOut02\obj\Debug\net6.0\ref\BT08_RefAndOut02.dll

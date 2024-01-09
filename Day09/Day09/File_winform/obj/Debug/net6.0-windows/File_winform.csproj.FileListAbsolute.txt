@@ -1,0 +1,16 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\bin\Debug\net6.0-windows\File_winform.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\bin\Debug\net6.0-windows\File_winform.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\bin\Debug\net6.0-windows\File_winform.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\bin\Debug\net6.0-windows\File_winform.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\bin\Debug\net6.0-windows\File_winform.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\refint\File_winform.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\File_winform.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\Day09\File_winform\obj\Debug\net6.0-windows\ref\File_winform.dll

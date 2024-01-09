@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\bin\Debug\net6.0\ParamsExercise.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\bin\Debug\net6.0\ParamsExercise.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\bin\Debug\net6.0\ParamsExercise.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\bin\Debug\net6.0\ParamsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\bin\Debug\net6.0\ParamsExercise.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\refint\ParamsExercise.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ParamsExercise.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\ParamsExercise\obj\Debug\net6.0\ref\ParamsExercise.dll

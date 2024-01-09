@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\bin\Debug\net6.0\BitArrayApp.exe
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\bin\Debug\net6.0\BitArrayApp.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\bin\Debug\net6.0\BitArrayApp.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\bin\Debug\net6.0\BitArrayApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\bin\Debug\net6.0\BitArrayApp.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\refint\BitArrayApp.dll
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.pdb
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\BitArrayApp.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day08\BTVN\BitArrayApp\obj\Debug\net6.0\ref\BitArrayApp.dll

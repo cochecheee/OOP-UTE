@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\bin\Debug\net6.0\FileRead.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\bin\Debug\net6.0\FileRead.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\bin\Debug\net6.0\FileRead.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\bin\Debug\net6.0\FileRead.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\bin\Debug\net6.0\FileRead.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\refint\FileRead.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\FileRead.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileRead\obj\Debug\net6.0\ref\FileRead.dll

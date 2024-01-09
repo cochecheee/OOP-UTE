@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\bin\Debug\net6.0\OptionalArguments.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\bin\Debug\net6.0\OptionalArguments.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\bin\Debug\net6.0\OptionalArguments.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\bin\Debug\net6.0\OptionalArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\bin\Debug\net6.0\OptionalArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\refint\OptionalArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\OptionalArguments.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\OptionalArguments\obj\Debug\net6.0\ref\OptionalArguments.dll

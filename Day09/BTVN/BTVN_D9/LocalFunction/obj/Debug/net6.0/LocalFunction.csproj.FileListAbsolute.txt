@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\bin\Debug\net6.0\LocalFunction.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\bin\Debug\net6.0\LocalFunction.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\bin\Debug\net6.0\LocalFunction.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\bin\Debug\net6.0\LocalFunction.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\bin\Debug\net6.0\LocalFunction.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\refint\LocalFunction.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\LocalFunction.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\LocalFunction\obj\Debug\net6.0\ref\LocalFunction.dll

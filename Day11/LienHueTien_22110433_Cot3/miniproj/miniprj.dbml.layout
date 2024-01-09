@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="miniprj">
+  <DataContextMoniker Name="/miniprjDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ba1033ae-247c-487b-ba6e-8b3de2864e14" absoluteBounds="1.125, 2.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/miniprjDataContext/mini" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1f7831c8-9bf1-4bb6-9df3-021d50b95ef0" absoluteBounds="1.1400000000000001, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

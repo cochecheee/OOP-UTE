@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bai_Kiem_Tra_Giua_Ki_Matrix/1.0.0": {
+        "dependencies": {
+          "Matrix_Calculate": "1.0.0"
+        },
+        "runtime": {
+          "Bai_Kiem_Tra_Giua_Ki_Matrix.dll": {}
+        }
+      },
+      "Matrix_Calculate/1.0.0": {
+        "runtime": {
+          "Matrix_Calculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_Kiem_Tra_Giua_Ki_Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrix_Calculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

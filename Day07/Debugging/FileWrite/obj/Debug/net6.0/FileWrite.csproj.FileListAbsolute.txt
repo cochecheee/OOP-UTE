@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\bin\Debug\net6.0\FileWrite.exe
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\bin\Debug\net6.0\FileWrite.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\bin\Debug\net6.0\FileWrite.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\bin\Debug\net6.0\FileWrite.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\bin\Debug\net6.0\FileWrite.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\refint\FileWrite.dll
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.pdb
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\FileWrite.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day07\Debugging\FileWrite\obj\Debug\net6.0\ref\FileWrite.dll

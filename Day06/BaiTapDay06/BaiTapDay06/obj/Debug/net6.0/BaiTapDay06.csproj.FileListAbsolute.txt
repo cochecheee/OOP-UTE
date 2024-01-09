@@ -1,0 +1,15 @@
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\bin\Debug\net6.0\BaiTapDay06.exe
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\bin\Debug\net6.0\BaiTapDay06.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\bin\Debug\net6.0\BaiTapDay06.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\bin\Debug\net6.0\BaiTapDay06.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\bin\Debug\net6.0\BaiTapDay06.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\refint\BaiTapDay06.dll
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.pdb
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\BaiTapDay06.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day06\BaiTapDay06\BaiTapDay06\obj\Debug\net6.0\ref\BaiTapDay06.dll

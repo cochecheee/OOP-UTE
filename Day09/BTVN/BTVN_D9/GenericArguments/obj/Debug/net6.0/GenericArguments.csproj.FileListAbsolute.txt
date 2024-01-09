@@ -1,0 +1,14 @@
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\bin\Debug\net6.0\GenericArguments.exe
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\bin\Debug\net6.0\GenericArguments.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\bin\Debug\net6.0\GenericArguments.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\bin\Debug\net6.0\GenericArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\bin\Debug\net6.0\GenericArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\refint\GenericArguments.dll
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.pdb
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\GenericArguments.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day09\BTVN\BTVN_D9\GenericArguments\obj\Debug\net6.0\ref\GenericArguments.dll

@@ -1,0 +1,46 @@
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.exe.config
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\bin\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Properties.Resources.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form2.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj\miniproj\obj\Debug\miniproj.Form3.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\bin\Debug\miniproj.exe.config
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\bin\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\bin\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form2.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form3.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form5.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Properties.Resources.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form6.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form7.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form8.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\miniproj - Copy\miniproj\obj\Debug\miniproj.Form9.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.NV.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.NVnext.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.QuanLy.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.Phone.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.Sach.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.InCome.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.OutCome.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.Thang.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.Properties.Resources.resources
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\obj\Debug\miniproj.pdb
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\bin\Debug\miniproj.exe.config
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\bin\Debug\miniproj.exe
+D:\Lap trinh huong doi tuong - OOP\Day11\BuiLeThuyTien_22162048_Cot3\miniproj\bin\Debug\miniproj.pdb

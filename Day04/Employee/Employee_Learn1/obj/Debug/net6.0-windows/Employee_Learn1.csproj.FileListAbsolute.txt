@@ -1,0 +1,17 @@
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\bin\Debug\net6.0-windows\Employee_Learn1.exe
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\bin\Debug\net6.0-windows\Employee_Learn1.deps.json
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\bin\Debug\net6.0-windows\Employee_Learn1.runtimeconfig.json
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\bin\Debug\net6.0-windows\Employee_Learn1.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\bin\Debug\net6.0-windows\Employee_Learn1.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.csproj.AssemblyReference.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.Form1.resources
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.csproj.GenerateResource.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.AssemblyInfoInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.AssemblyInfo.cs
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.csproj.CoreCompileInputs.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\refint\Employee_Learn1.dll
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.pdb
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\Employee_Learn1.genruntimeconfig.cache
+D:\Lap trinh huong doi tuong - OOP\Day04\Employee\Employee_Learn1\obj\Debug\net6.0-windows\ref\Employee_Learn1.dll
